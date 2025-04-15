@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    font-family: "Quicksand", sans-serif;
+}
 ul,li{
     list-style: none;
     
